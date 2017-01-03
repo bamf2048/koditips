@@ -13,10 +13,11 @@ At the time of this writing (Jan 2017) it's recommended that you get a s905 chip
 
 - [Blog: Android PC Review](http://androidpcreview.com/)
 - [Android Boxes aren't Android TV](https://www.reddit.com/r/AndroidTV/comments/58c09f/whats_the_difference_between_android_tv_and_the/)
+- get the beta
 
 ## Emulation 
 
-- [Retroplayer will allow classic game emulation in future versions of Kodi (v.17/Krypton?)](http://forum.kodi.tv/forumdisplay.php?fid=194)
+- [Retroplayer will integrate game emulation in future versions of Kodi (v.17/Krypton?)](http://forum.kodi.tv/forumdisplay.php?fid=194)
 - [Download roms and play from Kodi](http://www.howtogeek.com/261169/how-to-browse-and-play-terabytes-of-retro-games-from-your-couch-with-kodi/) & [How to install and setup Retroarch](http://www.howtogeek.com/260274/how-to-set-up-retroarch-the-ultimate-all-in-one-retro-games-emulator/)
 
 ## Roadmap/Codenames

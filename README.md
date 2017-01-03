@@ -1,7 +1,17 @@
 # Kodi Tips
 
+## Addons, Tweaks
+
 - [Easily add/download subtitles](https://seo-michael.co.uk/how-to-manually-add-and-activate-subtitles-on-xbmc/)
-- [Android PC Review](http://androidpcreview.com/)
+- backup? Copy userdata and 
+- avoid 'builds' as they add a lot of unwanted features and crud
+
+## Android Boxes
+
+At the time of this writing (Jan 2017) it's recommended that you get a s905 chip based box. Some say s905x are unstable. Rockwell (RK\*) and s805 chips are definitely out.
+
+- [Blog: Android PC Review](http://androidpcreview.com/)
+- [Android Boxes aren't Android TV](https://www.reddit.com/r/AndroidTV/comments/58c09f/whats_the_difference_between_android_tv_and_the/)
 
 ## Emulation 
 

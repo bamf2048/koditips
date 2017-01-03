@@ -4,7 +4,7 @@
 
 - [Easily add/download subtitles](https://seo-michael.co.uk/how-to-manually-add-and-activate-subtitles-on-xbmc/)
 - backup or clone plugins and settings? Copy `userdata` and `addons`
-  - MacOS: {user}/Library/Application Support/Kodi/
+  - MacOS: `{user}/Library/Application Support/Kodi/`
 - avoid 'builds' as they add a lot of unwanted features and crud
 
 ## Android Boxes

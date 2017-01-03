@@ -1,5 +1,7 @@
 # Kodi Tips
 
+This page is a collection of tips and tricks to get you started on using Kodi. It's not meant to be a tutorial, definitive guide or FAQ. Just a loose reference to common problems.
+
 ## Addons, Tweaks
 
 - [Easily add/download subtitles](https://seo-michael.co.uk/how-to-manually-add-and-activate-subtitles-on-xbmc/)

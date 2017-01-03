@@ -8,6 +8,7 @@ This page is a collection of tips and tricks to get you started on using Kodi. I
 - backup or clone plugins and settings? Copy `userdata` and `addons`
   - MacOS: `{user}/Library/Application Support/Kodi/`
 - avoid 'builds' as they add a lot of unwanted features and crud
+- buffering? edit `advancedsettings.xml`
 
 ## Android Boxes
 

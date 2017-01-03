@@ -17,3 +17,8 @@ At the time of this writing (Jan 2017) it's recommended that you get a s905 chip
 
 - [Retroplayer will allow classic game emulation in future versions of Kodi!](http://forum.kodi.tv/forumdisplay.php?fid=194)
 - [Download roms and play from Kodi](http://www.howtogeek.com/261169/how-to-browse-and-play-terabytes-of-retro-games-from-your-couch-with-kodi/) & [How to install and setup Retroarch](http://www.howtogeek.com/260274/how-to-set-up-retroarch-the-ultimate-all-in-one-retro-games-emulator/)
+
+## Roadmap/Codenames
+
+1. Jarvis (Current) v. 16
+2. Krypton v. 17

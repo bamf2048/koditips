@@ -3,7 +3,8 @@
 ## Addons, Tweaks
 
 - [Easily add/download subtitles](https://seo-michael.co.uk/how-to-manually-add-and-activate-subtitles-on-xbmc/)
-- backup? Copy userdata and 
+- backup or clone plugins and settings? Copy `userdata` and `addons`
+  - MacOS: {user}/Library/Application Support/Kodi/
 - avoid 'builds' as they add a lot of unwanted features and crud
 
 ## Android Boxes
@@ -15,7 +16,7 @@ At the time of this writing (Jan 2017) it's recommended that you get a s905 chip
 
 ## Emulation 
 
-- [Retroplayer will allow classic game emulation in future versions of Kodi (v17/Krypton?)](http://forum.kodi.tv/forumdisplay.php?fid=194)
+- [Retroplayer will allow classic game emulation in future versions of Kodi (v.17/Krypton?)](http://forum.kodi.tv/forumdisplay.php?fid=194)
 - [Download roms and play from Kodi](http://www.howtogeek.com/261169/how-to-browse-and-play-terabytes-of-retro-games-from-your-couch-with-kodi/) & [How to install and setup Retroarch](http://www.howtogeek.com/260274/how-to-set-up-retroarch-the-ultimate-all-in-one-retro-games-emulator/)
 
 ## Roadmap/Codenames

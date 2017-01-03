@@ -27,3 +27,7 @@ At the time of this writing (Jan 2017) it's recommended that you get a s905 chip
 1. Isengard v.15
 1. Jarvis (Current) v.16
 1. Krypton v.17
+
+## Terminology
+
+- x264, x265: these are types of video compression that are CPU heavy. x265 is very very CPU intensive but results in very small files. You'll be seeing this a lot in the future for 4K video.
